@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm AAFFAN Ayoub, a computer science and embedded system student with a passion for building innovative and impactful solutions. I'm currently studying at the University of Science Agadir (2024-2026) while actively working on exciting projects that push the boundaries of modern system development.<br><br>🚀 Current Project<br>I'm developing a social media platform inspired by GitHub, designed to connect developers, share code, and foster collaboration in a unique way. Stay tuned for updates and contributions as I work to bring this vision to life!
+👋 Hi, I'm AAFFAN Ayoub, a computer science and embedded system student with a passion for building innovative and impactful solutions. I'm currently studying at the University of Science Agadir (2024-2026) while actively working on exciting projects that push the boundaries of modern system development.<br><br>🚀 Current Project<br>I'm developing embedded system solution, designed to connect developers, share code, and foster collaboration in a unique way. Stay tuned for updates and contributions as I work to bring this vision to life!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-aaffan-2ab475299/)
